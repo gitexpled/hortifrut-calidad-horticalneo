@@ -1,0 +1,2 @@
+*/5 * * * * /horticalneo.sh >> /var/log/cron.log 2>&1
+0 0 * * * echo "" > /var/log/cron.log
